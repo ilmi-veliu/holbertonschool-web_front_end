@@ -210,10 +210,10 @@
     color: var(--text-color);
   }
 
-  .social-link {
+  .social-lik {
     display: block;
   }
 
   .social-link > svg {
-    fil: var(--text-color);
+    fill: var(--text-color);
   }
